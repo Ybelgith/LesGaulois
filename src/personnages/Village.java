@@ -45,7 +45,7 @@ public class Village {
         // Ajout des Gaulois au village
         village.ajouterHabitant(asterix);
         village.ajouterHabitant(obelix);
-        
+        //TP2
         // Test d'ajout au-delà de la capacité maximale (si plus de 5 villageois sont ajoutés)
     }
 
